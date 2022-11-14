@@ -1,3 +1,20 @@
+## Paisaflix!
+
+Hey! Bienvenidx al Developer Challange de Web.
+En este, tienes que realizar los siguientes puntos:
+
+- Maquetar la Home y Landing de pelicula.
+- Integrar la WebApp con la API y sus recursos.
+- Formatear los diferentes datos de la API (Ejem: La duración viene en minutos y se debe formatear a horas/minutos)
+
+La WebApp debe estar realizada en React.js pero podes usar cualquier framework del mismo!.
+Se valora el uso de Next.js y Typescript, pero NO es indispensable!!.
+En caso de usar Next, usa el patron de arquitectura que te parezca mas optimo!
+
+No es requisito necesario que la plataforma sea responsive. De todas formas, recorda que un layout bien pensado puede solucionarte la vida a la hora de implementarlo!.
+
+Se apremia la creatividad pero tambien la eficiencia y el cumplimiento de los requisitos.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
